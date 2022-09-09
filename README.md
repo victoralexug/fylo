@@ -1,6 +1,6 @@
-# Frontend Mentor - Fylo dark theme landing page
+# Fylo dark theme landing page
 
-built with html, css and abitof flexbox and grid.
+built with html, css and a bit of flexbox and grid.
  users should be able to: 
 
 - View the optimal layout for the site depending on their device's screen size
